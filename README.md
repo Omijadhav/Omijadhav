@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @Omijadhav
 - 👀 I’m interested in Ethical Hacking
--🌱 I’m currently learning **Ethical Hacking, Cyber Security**
+- 🌱 I’m currently learning **Ethical Hacking, Cyber Security**
 - 📫 How to reach me **omkarjadhavodj@gmail.com**
 
 -----------------------------------------------------------------------------------------------------------------------------
