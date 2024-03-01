@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Jadhav</h1>
 <h3 align="center">I am a full stack web application developer from <b>India</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omijadhav&label=Profile%20views&color=0e75b6&style=flat" alt="omijadhav" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omijadhav&label=Profile%20views&color=0e75b6&style=flat" alt="omijadhav" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/omkar-d-jadhav" target="blank">
@@ -30,6 +30,10 @@
  📧 &emsp; Reach me anytime: **jadhavomkaroj25@gmail.com**<br/><br/>
 
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 -----------------------------------------------------------------------------------------------------------------------------
