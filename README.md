@@ -43,6 +43,18 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+## Top Open Source -
+[![Java-Microservice-Guestbook](https://github-readme-stats.vercel.app/api/pin/?username=Omijadhav&repo=Java-Microservice-Guestbook&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Omijadhav/Java-Microservice-Guestbook)
+[![Capabl-Java-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Omijadhav&repo=Capabl-Java-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Omijadhav/Capabl-Java-Projects)
+[![datascience_azure](https://github-readme-stats.vercel.app/api/pin/?username=Omijadhav&repo=datascience_azure&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Omijadhav/datascience_azure)
+[![recruitment](https://github-readme-stats.vercel.app/api/pin/?username=Omijadhav&repo=recruitment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Omijadhav/recruitment)
+
+<p align="left">
+  <a href="https://github.com/Omijadhav?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omijadhav&" alt="omijadhav" /></p>
 
 -----------------------------------------------------------------------------------------------------------------------------
