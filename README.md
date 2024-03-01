@@ -3,8 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omijadhav&label=Profile%20views&color=0e75b6&style=flat" alt="omijadhav" /> </p>
 
-<p align="left"> <a href="https://twitter.com/41omkar" target="blank"><img src="https://img.shields.io/twitter/follow/41omkar?logo=twitter&style=for-the-badge" alt="41omkar" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/omkar-d-jadhav" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn" alt="41omkar" /></a> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/omkar-d-jadhav" target="blank">
+ <img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=Linkedin&logoColor=black"/>
+</a>
+ <a href="https://twitter.com/41omkar" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-%231D9BF0?style=for-the-badge&logo=Twitter&logoColor=black"/>
+ </a>
+ <a href="https://instagram.com/omkarjadhav756" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=black"/>
+ </a>
+ <a href="https://discord.gg/Omkar#4759" target="blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=black"/>
+ </a>
+</p>
+<br />
 
 -----------------------------------------------------------------------------------------------------------------------------
  ## About me
@@ -12,20 +25,12 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
- ❤️ &emsp; Love to writing code and learning new features<br/>
- 📧 &emsp; Reach me anytime: **jadhavomkaroj25@gmail.com**<br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: **jadhavomkaroj25@gmail.com**<br/><br/>
 
 </p>
 <br/>
-
------------------------------------------------------------------------------------------------------------------------------
-## Connect with me
-
-<p align="left"> <a href="https://www.linkedin.com/in/omkar-d-jadhav" target="blank"><img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=Linkedin&logoColor=black"/></a> </p>
-<p align="left"> <a href="https://twitter.com/41omkar" target="blank"><img src="https://img.shields.io/badge/Twitter-%231D9BF0?style=for-the-badge&logo=Twitter&logoColor=black"/></a> </p>
-<p align="left"> <a href="https://instagram.com/omkarjadhav756" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=black"/></a> </p>
-<p align="left"> <a href="https://discord.gg/Omkar#4759" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=black"/></a> </p>
 
 -----------------------------------------------------------------------------------------------------------------------------
 
